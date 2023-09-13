@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Môn thiết kế Web\\BaiThucHanh1\\BaiThucHanh1\\BaiThucHanh1.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\BaiThucHanh1.csproj",
       "projectName": "BaiThucHanh1",
-      "projectPath": "E:\\Môn thiết kế Web\\BaiThucHanh1\\BaiThucHanh1\\BaiThucHanh1.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Môn thiết kế Web\\BaiThucHanh1\\BaiThucHanh1\\obj\\",
+      "projectPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\BaiThucHanh1.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
