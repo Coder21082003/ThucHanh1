@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\BaiThucHanh1.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\BaiThucHanh1\\BaiThucHanh1.csproj",
       "projectName": "BaiThucHanh1",
-      "projectPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\BaiThucHanh1.csproj",
+      "projectPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\BaiThucHanh1\\BaiThucHanh1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\LTWebLab1\\BaiThucHanh1\\obj\\",
+      "outputPath": "D:\\OneDrive\\Documents\\đại học\\Lap trinh web\\thuchanh1\\BaiThucHanh1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
